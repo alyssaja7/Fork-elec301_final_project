@@ -1,4 +1,4 @@
-# Test github SyncFork functionality
+# 4/10 test if github can sync with a specific branch
 # Import Statements
 from keras.layers import Dense , Activation , Conv2D , MaxPooling2D , Flatten ,Dropout,Convolution2D
 from keras.models import Sequential
