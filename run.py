@@ -21,6 +21,7 @@ from PIL import Image
 #import skimage.color as color
 import sklearn.preprocessing as preprocessing
 import sys
+#Add changes to test scenario 2: no parent changes, only local changes
 
 #from keras.datasets import mnist
 #download mnist data and split into train and test sets
