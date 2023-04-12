@@ -1,6 +1,5 @@
-# 4/10 test if github can sync with a specific branch
-# Import Statements
-
+# Test github SyncFork functionality
+# Test github syncFork functionality 2
 from keras.layers import Dense , Activation , Conv2D , MaxPooling2D , Flatten ,Dropout,Convolution2D
 from keras.models import Sequential
 from sklearn.model_selection import train_test_split
